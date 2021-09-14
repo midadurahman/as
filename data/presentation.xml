@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="lATIHAN 1" width="720.0000000" height="405.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{0B7957EF-06A0-42F7-8DCD-53F6B26436F4}">
+<presentation title="ARITMETIKA SOSIAL 2" width="720.0000000" height="405.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{841CECA9-DD7E-4F75-92BE-875E81A5F881}">
 	<presenters/>
 	<references/>
 	<soundAssets>
@@ -15,8 +15,6 @@
 		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
 		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
 		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
-		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
-		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
 	</graphicAssets>
 	<playlists/>
 	<narration/>
@@ -149,18 +147,18 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="VIDEO PEMBELAJARAN" titleNormalized="video pembelajaran" src="slide1.swf" size="10304" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
+		<slide index="0" title="VIDEO PEMBELAJARAN" titleNormalized="video pembelajaran" src="slide1.swf" size="5423" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0">
 			<sounds>
 				<sound id="sound0" soundAssetId="sndAsset0" hasTriggerEffects="1" slides="2" repeat="untilNextSlide" volume="0.8000000" effect="0"/>
 			</sounds>
 			<videos/>
-			<transitionEffect name="SplitVerticalOut" duration="1.5000000" soundId="" looped="0"/>
+			<transitionEffect name="SplitVerticalOut" duration="0.2500000" soundId="" looped="0"/>
 			<soundCommands>
 				<playSound frameIndex="0" soundId="sound0" effect="0" startPos="0.0000000"/>
 			</soundCommands>
 			<videoCommands/>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="6.4060001"/>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.5960001"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
@@ -173,14 +171,14 @@ MATEMATIKA</text>
 				</command>
 			</metaCommands>
 		</slide>
-		<slide index="1" title="MATERI : ARITMATIKA SOSIAL" titleNormalized="materi : aritmatika sosial" src="slide2.swf" size="5064" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
+		<slide index="1" title="MATERI : ARITMATIKA SOSIAL" titleNormalized="materi : aritmatika sosial" src="slide2.swf" size="5058" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands/>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="5.4279999"/>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.6810002"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
@@ -189,7 +187,7 @@ MATEMATIKA</text>
 OLEH: 
 MIDADURAHMAN, S.Si</text>
 		</slide>
-		<slide index="2" title="TUJUAN" titleNormalized="tujuan" src="slide3.swf" size="4980" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
+		<slide index="2" title="TUJUAN" titleNormalized="tujuan" src="slide3.swf" size="4783" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -204,7 +202,7 @@ MIDADURAHMAN, S.Si</text>
 			<text>TUJUAN
 Menganalisis fenomena atau aktivitas yang terkait dengan aritmetika social (penjualan, pembelian, potongan, keuntungan, kerugian, bunga tunggal, persentase, bruto,neto,tara)</text>
 		</slide>
-		<slide index="3" title="KOMPETENSI DASAR" titleNormalized="kompetensi dasar" src="slide4.swf" size="4786" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
+		<slide index="3" title="KOMPETENSI DASAR" titleNormalized="kompetensi dasar" src="slide4.swf" size="4571" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -219,7 +217,7 @@ Menganalisis fenomena atau aktivitas yang terkait dengan aritmetika social (penj
 			<text>KOMPETENSI DASAR
 3.11 Menganalisis aritmetika sosial (penjualan, pembelian, potongan, keuntungan, kerugian, bunga tunggal, persentase, bruto, neto, tara)</text>
 		</slide>
-		<slide index="4" title="MATERI" titleNormalized="materi" src="slide5.swf" size="4856" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
+		<slide index="4" title="MATERI" titleNormalized="materi" src="slide5.swf" size="4646" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -234,7 +232,7 @@ Menganalisis fenomena atau aktivitas yang terkait dengan aritmetika social (penj
 			<text>MATERI
 Aritmatika sosial merupakan cabang matematika dalam ilmu ekonomi. Biasanya aritmatika sosial digunakan dalamperdagangan seperti transaksi jual beli di pasar, swalayan maupun minimarket.</text>
 		</slide>
-		<slide index="5" title="A. Nilai Keseluruhan dan Nilai Per-Unit Nilai keseluruhan merupakan nilai total dari semua unit yang ada, sementara nilai per-unit merupakan nilah per satu satuan dari barang atau produk. Sebagai contoh: Diketahui harga dari setiap unit laptop yaitu Rp 4.000.000. Sebuah perusahaan akan membeli 12 laptop untuk operasional kerja. Maka, hitunglah nilai keseluruhan serta nilai per-unit? Jawab: Nilai per-unit        = Rp 4.000.000 Nilai keseluruhan = 12 x Rp 4.000.000 = Rp 48.000.000" titleNormalized="a. nilai keseluruhan dan nilai per-unit nilai keseluruhan merupakan nilai total dari semua unit yang ada, sementara nilai per-unit merupakan nilah per satu satuan dari barang atau produk. sebagai contoh: diketahui harga dari setiap unit laptop yaitu rp 4.000.000. sebuah perusahaan akan membeli 12 laptop untuk operasional kerja. maka, hitunglah nilai keseluruhan serta nilai per-unit? jawab: nilai per-unit        = rp 4.000.000 nilai keseluruhan = 12 x rp 4.000.000 = rp 48.000.000" src="slide6.swf" size="5141" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
+		<slide index="5" title="A. Nilai Keseluruhan dan Nilai Per-Unit Nilai keseluruhan merupakan nilai total dari semua unit yang ada, sementara nilai per-unit merupakan nilah per satu satuan dari barang atau produk. Sebagai contoh: Diketahui harga dari setiap unit laptop yaitu Rp 4.000.000. Sebuah perusahaan akan membeli 12 laptop untuk operasional kerja. Maka, hitunglah nilai keseluruhan serta nilai per-unit? Jawab: Nilai per-unit        = Rp 4.000.000 Nilai keseluruhan = 12 x Rp 4.000.000 = Rp 48.000.000" titleNormalized="a. nilai keseluruhan dan nilai per-unit nilai keseluruhan merupakan nilai total dari semua unit yang ada, sementara nilai per-unit merupakan nilah per satu satuan dari barang atau produk. sebagai contoh: diketahui harga dari setiap unit laptop yaitu rp 4.000.000. sebuah perusahaan akan membeli 12 laptop untuk operasional kerja. maka, hitunglah nilai keseluruhan serta nilai per-unit? jawab: nilai per-unit        = rp 4.000.000 nilai keseluruhan = 12 x rp 4.000.000 = rp 48.000.000" src="slide6.swf" size="4929" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -248,7 +246,7 @@ Aritmatika sosial merupakan cabang matematika dalam ilmu ekonomi. Biasanya aritm
 			<notesHtml/>
 			<text>A. Nilai Keseluruhan dan Nilai Per-Unit Nilai keseluruhan merupakan nilai total dari semua unit yang ada, sementara nilai per-unit merupakan nilah per satu satuan dari barang atau produk. Sebagai contoh: Diketahui harga dari setiap unit laptop yaitu Rp 4.000.000. Sebuah perusahaan akan membeli 12 laptop untuk operasional kerja. Maka, hitunglah nilai keseluruhan serta nilai per-unit? Jawab: Nilai per-unit        = Rp 4.000.000 Nilai keseluruhan = 12 x Rp 4.000.000 = Rp 48.000.000</text>
 		</slide>
-		<slide index="6" title="B. Harga Penjualan, Laba, dan Rugi Di dalam dunia perdagangan sangat terkenal dengan istilah laba dan rugi. Laba serta Rugi sangat bergantung pada harga pembelian serta harga penjualan. Adapun rumus dari laba dan rugi, antara lain: Laba: Laba = Harga Jual – Harga Beli Rugi: Rugi = Harga Beli – Harga Jual" titleNormalized="b. harga penjualan, laba, dan rugi di dalam dunia perdagangan sangat terkenal dengan istilah laba dan rugi. laba serta rugi sangat bergantung pada harga pembelian serta harga penjualan. adapun rumus dari laba dan rugi, antara lain: laba: laba = harga jual – harga beli rugi: rugi = harga beli – harga jual" src="slide7.swf" size="4962" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
+		<slide index="6" title="B. Harga Penjualan, Laba, dan Rugi Di dalam dunia perdagangan sangat terkenal dengan istilah laba dan rugi. Laba serta Rugi sangat bergantung pada harga pembelian serta harga penjualan. Adapun rumus dari laba dan rugi, antara lain: Laba: Laba = Harga Jual – Harga Beli Rugi: Rugi = Harga Beli – Harga Jual" titleNormalized="b. harga penjualan, laba, dan rugi di dalam dunia perdagangan sangat terkenal dengan istilah laba dan rugi. laba serta rugi sangat bergantung pada harga pembelian serta harga penjualan. adapun rumus dari laba dan rugi, antara lain: laba: laba = harga jual – harga beli rugi: rugi = harga beli – harga jual" src="slide7.swf" size="4709" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -262,57 +260,24 @@ Aritmatika sosial merupakan cabang matematika dalam ilmu ekonomi. Biasanya aritm
 			<notesHtml/>
 			<text>B. Harga Penjualan, Laba, dan Rugi Di dalam dunia perdagangan sangat terkenal dengan istilah laba dan rugi. Laba serta Rugi sangat bergantung pada harga pembelian serta harga penjualan. Adapun rumus dari laba dan rugi, antara lain: Laba: 	Laba = Harga Jual – Harga Beli Rugi: 	Rugi = Harga Beli – Harga Jual</text>
 		</slide>
-		<slide index="7" title="AMATI TAYANGAN BERIKUT" titleNormalized="amati tayangan berikut" src="slide8.swf" size="31097" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7">
-			<sounds/>
-			<videos>
-				<video id="video0" videoClipId="ispring.resources_d21adb0.spr0_11013654" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_d21adb0.spr2_11013654" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
-			</videos>
+		<quiz index="7" title="" titleNormalized="" src="quiz1.swf" size="996502" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" thumbnailAssetId="imgAsset7" embedded="0">
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>AMATI TAYANGAN BERIKUT</text>
-		</slide>
-		<slide index="8" title="LATIHAN" titleNormalized="latihan" src="slide9.swf" size="5024" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>LATIHAN
-Bapak membeli 1 slop rokok, berisi 10 bungkus dengan harga Rp50.000,00 kemudian dijual per bungkusnya Rp5.500,00. Pertanyaannya:
-Untung atau rugikah bapak tersebut?
-Berapa keuntungan/kerugian bapak tersebut?</text>
-		</slide>
-		<slide index="9" title="EVALUASI" titleNormalized="evaluasi" src="slide10.swf" size="21098" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9">
-			<sounds/>
-			<videos/>
-			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
-			<soundCommands/>
-			<videoCommands/>
-			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
-			</animationSteps>
-			<notes/>
-			<notesNormalized/>
-			<notesHtml/>
-			<text>EVALUASI
-Bu Atun membeli membeli 25 kg beras dengan harga Rp. 3.500,00 per kg dan 50 kg beras dengan jenis lain harganya Rp. 3.000,00 per kg. Kedua jenis beras tersebut dicampur dan dijual dengan harga Rp. 3.500,00. Tentukan untung dan ruginya untuk keseluruhan!
-Pedagang ayam membeli 50 ekor ayam dengan harga Rp20.000,00 per ekor, kemudian ayam dijual dengan harga Rp30.000,00 per ekor, tetapi 5 ekor ayam mati karena sakit. Tentukan keuntungan pedagang tersebut
-Pak Anwar membeli sebuah rumah seharga Rp. 130.000.000,00, kemudian diperbaiki dengan biaya 10% dari harga pembeliannya. Jika Pak Anwar menjual rumah tersebut seharga Rp. 165.000.000,00, berapakah 
- Quiz
-Click the Quiz button to edit this object</text>
-		</slide>
+			<quizBranching allowQuizInterruption="1" allowViewNextSlides="atAnyTime">
+				<finishAction>
+					<passed>
+						<gotoNextSlide/>
+					</passed>
+					<failed>
+						<gotoNextSlide/>
+					</failed>
+				</finishAction>
+			</quizBranching>
+		</quiz>
 	</slides>
 </presentation>
